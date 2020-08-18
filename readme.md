@@ -1,9 +1,9 @@
-#Social Design Challenge
+# Social Design Challenge
 URL: https://matthiasnijskens.github.io/social-impact-denijl/
 
 ---
 
-####Sources:
+#### Sources:
 * Font Awesome
 * De Nijl Facebook
 * Matthias Nijskens

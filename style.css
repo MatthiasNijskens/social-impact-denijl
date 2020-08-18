@@ -1,0 +1,46 @@
+#exterior {
+    width: 350px;
+    height: auto;
+}
+.container {
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+.navbar-brand {
+    font-size: 35px;
+}
+
+table, th, td {
+    border-collapse: collapse;
+    border: 1px solid black;
+    padding: 10px;
+}
+table {
+    text-align: left;
+    width: 70%;
+    margin: auto;
+}
+
+h1 {
+    margin-bottom: 15px;
+}
+
+.card {
+    border: none;
+}
+
+.right{
+    float: right;
+}
+
+a{
+    text-decoration-line: none;
+}
+
+.fa-envelope, .fa-facebook, .fa-twitter, .fa-instagram {
+    color: #7c7974;
+    margin:10px;
+}
+footer {
+    background-color: darkslategrey;
+}

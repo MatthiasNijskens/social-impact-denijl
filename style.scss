@@ -1,0 +1,10 @@
+$padding: 20px;
+
+@mixin padding {
+  padding: $padding;
+}
+
+
+.media-body {
+  @include padding;
+}
